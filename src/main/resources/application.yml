@@ -20,8 +20,8 @@ oauth:
     kakao:
       login_uri: https://kauth.kakao.com/oauth/
       user_info_uri: https://kapi.kakao.com/v2/user/me
-      client_id: d99c7a950fbb6caceb7739f996f3ca02
-      client_secret: CXbwkj4DQ2zDa0TsqcTWVB6Z1SNE4FZN
+      client_id: 
+      client_secret: 
       redirect_uri: http://localhost:8080/auth/kakao/login
       grant_type: authorization_code
       rule:
